@@ -1,0 +1,8 @@
+ACGTTACC+ACCGACAA_R1.fastq.gz	sample-1_R1.fastq.gz
+ACGTTACC+AGTGGCAA_R1.fastq.gz	sample-1_R2.fastq.gz
+ACGTTACC+CGACACTT_R1.fastq.gz	sample-2_R1.fastq.gz
+ACGTTACC+GACTTGTG_R1.fastq.gz	sample-2_R2.fastq.gz
+ACGTTACC+GTTCCATG_R1.fastq.gz	sample-3_R1.fastq.gz
+ACGTTACC+TAGCTGAG_R1.fastq.gz	sample-3_R2.fastq.gz
+CTGTGTTG+AGTGGCAA_R1.fastq.gz	sample-4_R1.fastq.gz
+CTGTGTTG+CACAGACT_R1.fastq.gz	sample-4_R2.fastq.gz
