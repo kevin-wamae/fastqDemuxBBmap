@@ -3,9 +3,9 @@
 # bbmap demultiplexing script
 #*****************************************************
 # working directory
-scriptDir=/script
-inputDir=/fastq
-outputDir=/ouput
+scriptDir=/script  # directory where barcodes.txt and barcodes_to_names.txt are stored
+inputDir=/fastq    # directory where fastq files are stored
+outputDir=/ouput   # output directory for demultiplexed fastq files
 
 demuxbyname.sh \
   prefixmode=f \
